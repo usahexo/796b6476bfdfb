@@ -1,5 +1,5 @@
 ---
-title: What_will_be_the_highest_selling_lot_at_the_Knife_Auction_Usa_2022
+title: What will be the highest selling lot at the Knife Auction Usa 2022
 date: 2022-08-10 17:32:41
 categories:
 - knife
@@ -58,4 +58,4 @@ The painting is significant because it is one of the few paintings by Leonardo d
 
 #  Where will the auction be held?
 
-The auction will be held in ____________.
+The auction will be held in.
